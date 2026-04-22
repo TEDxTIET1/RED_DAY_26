@@ -6,13 +6,13 @@ const speakers = [
     name: "DIKSHANT",
     title: "Singer-songwriter",
     quote: "\"\"",
-    image: "/Speakers/Dikshant.jpg"
+    image: "/Speakers/dikshant2.jpg"
   },
   {
     name: "HARINI SIVAKUMAR",
     title: "Entrepreneur",
     quote: "\"\"",
-    image: "/Speakers/harini.jpg"
+    image: "/Speakers/Harini2.jpg"
   },
   {
     name: "MUKTI GAUTAM",
@@ -24,7 +24,7 @@ const speakers = [
     name: "KESHAV SADHNA",
     title: "Actor",
     quote: "\"\"",
-    image: "/Speakers/keshav.jpg"
+    image: "/Speakers/keshav2.jpg"
   },
   {
     name: "SIFAT KHURANA",
