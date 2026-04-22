@@ -1,8 +1,5 @@
 import React, { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import event1 from "../assets/First.webp";
-import event2 from "../assets/Second.webp";
-import event3 from "../assets/Third.webp";
 import "./Event.css";
 
 const Event = () => {
@@ -76,13 +73,6 @@ const Event = () => {
           </button>
         </div>
       </section>
-
-      {/* ==== Event Images Section ==== */}
-      <div className="event-images">
-        {/* <img src={event1} alt="Event 1" />
-        <img src={event2} alt="Event 2" />
-        <img src={event3} alt="Event 3" /> */}
-      </div>
     </div>
     </div>
   );
